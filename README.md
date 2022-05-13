@@ -14,7 +14,7 @@ This project tracks creates two eyes in the center of the screen and allows the 
 * Move your mouse around the screen and watch the eyes move along with it.
 ---
 ## Future Improvements:
-HAving the eyes move independently from eachother or have teh actual eyeballs move throughout the screen whiel changing the color of the background.
+Having the eyes move independently from eachother or have teh actual eyeballs move throughout the screen whiel changing the color of the background.
 
 ## Contact
 Daphne Benzaquen at dbenzaquen89
